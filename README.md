@@ -13,12 +13,11 @@
 
 - 📫 How to reach me **krprem514@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prem-kumar-a51a202a6/](https://www.linkedin.com/in/prem-kumar-a51a202a6/)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/premkumardev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="premkumardev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prem-kumar-a51a202a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prem-kumar-a51a202a6/" height="30" width="40" /></a>
 <a href="https://instagram.com/lprem_kumarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lprem_kumarl" height="30" width="40" /></a>
 <a href="https://discord.gg/prem__kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prem__kumar" height="30" width="40" /></a>
 </p>
