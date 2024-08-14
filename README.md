@@ -2,7 +2,6 @@
 <h3 align="center">Full-Stack Developer | Python & Java Lover | Building Web Experiences with Flask & JavaScript</h3>
 <img align="right" alt="Coding" width="250" style="border-radius: 50%;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-kumar-dev&label=Profile%20views&color=fde90d&style=flat" alt="prem-kumar-dev" /> </p>
 
 - 🌱 I’m currently learning **Java DSA**
@@ -12,8 +11,6 @@
 - 💬 Ask me about **python, html-css, js, flask, java**
 
 - 📫 How to reach me **krprem514@gmail.com**
-
-- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
