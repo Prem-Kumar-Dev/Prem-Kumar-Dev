@@ -52,9 +52,14 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-###
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prem-kumar-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="prem-kumar-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar-dev&theme=dark" alt="prem-kumar-dev" /></p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Prem-Kumar-Dev&theme=radical&column=-1&row=1&margin-w=20&margin-h=6&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
