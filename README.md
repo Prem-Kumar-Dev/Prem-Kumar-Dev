@@ -52,12 +52,16 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
+<h1 align="center">Hacktober Fest 2K24</h1>
 
+[![An image of @premkumardev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/premkumardev)](https://holopin.io/@premkumardev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prem-kumar-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="prem-kumar-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar-dev&theme=dark" alt="prem-kumar-dev" /></p>
-
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prem-kumar-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="prem-kumar-dev" /></p>
+</div>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar-dev&theme=dark" alt="prem-kumar-dev" /></p>
+</div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Prem-Kumar-Dev&theme=radical&column=-1&row=1&margin-w=20&margin-h=6&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
